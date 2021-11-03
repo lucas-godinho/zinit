@@ -1,4 +1,4 @@
-# zinit
+# zinit - this is a zdharma/zinit fork
 
 ### Added by Zinit's installer
 
